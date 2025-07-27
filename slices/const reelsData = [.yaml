@@ -1,0 +1,7 @@
+const reelsData = [
+  { id: '1', uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4', name: 'user1', caption: 'Amazing day!' },
+  { id: '2', uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4', name: 'user2', caption: 'Nature vibes' },
+  { id: '3', uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4', name: 'user3', caption: 'Workout time!' },
+  { id: '4', uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4', name: 'user4', caption: 'Chill moment' },
+  { id: '5', uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4', name: 'user5', caption: 'Fun day out!' },
+];

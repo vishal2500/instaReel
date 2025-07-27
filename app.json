@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "InstagramReelsExpo",
+    "slug": "InstagramReelsExpo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.vishalexpo.InstagramReelsExpo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c32f7417-a438-45e2-a23c-f6631d4c1978"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
